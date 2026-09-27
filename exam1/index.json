@@ -2,7 +2,7 @@
   "title": "RHCSA Practice Exam 1",
   "description": "Full Practice Exam 1",
   "backend": {
-    "imageid": "almalinux"
+    "imageid": "ubuntu"
   },
   "details": {
     "steps": [
