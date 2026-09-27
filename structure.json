@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "RHCSA Practice Exam 1",
+      "description": "Full Practice Exam 1",
+      "path": "exam1"
+    },
+    {
+      "title": "RHCSA Practice Exam 2",
+      "description": "Full Practice Exam 2",
+      "path": "exam2"
+    },
+    {
+      "title": "RHCSA Practice Exam 3",
+      "description": "Full Practice Exam 3",
+      "path": "exam3"
+    }
+  ]
+}
