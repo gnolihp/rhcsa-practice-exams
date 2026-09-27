@@ -1,0 +1,19 @@
+{
+  "title": "RHCSA Practice Exam 1",
+  "description": "Full Practice Exam 1",
+  "backend": {
+    "imageid": "almalinux"
+  },
+  "details": {
+    "steps": [
+      {
+        "title": "Question 1: Network Configuration",
+        "text": "step1/text.md",
+        "verify": "step1/verify.sh"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  }
+}
